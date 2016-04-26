@@ -1,0 +1,4 @@
+[submodule "OpenGE.Core.UnitTests/GTest"]
+	path = OpenGE.Core.UnitTests/GTest
+[submodule "OpenGE.Core.UnitTests/GTest"]
+	url = https://github.com/google/googletest.git
